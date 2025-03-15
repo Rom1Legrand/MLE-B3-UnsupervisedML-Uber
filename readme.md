@@ -6,6 +6,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.20+-yellow.svg)
 
+##  DISLAIMER
+Attention le fichier permettant les visualisations (uber_dfclean.csv) étant trop volumineux celles-ci ne sont pas possibles.
+Les fichiers sources sont disponibles ici
+👉👉<a href="https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Machine+Learning+non+Supervis%C3%A9/Projects/uber-trip-data.zip" target="_blank"> Uber Trip Data</a> 👈👈
+Et sont à décompresser dans un répertoire /src
+
 ## 📋 Description
 Ce projet analyse les données des courses Uber à New York pour identifier les zones chaudes (hotspots) et optimiser le positionnement des chauffeurs à travers différentes périodes de la journée.
 
