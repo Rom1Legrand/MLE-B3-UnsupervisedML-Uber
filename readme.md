@@ -61,3 +61,7 @@ Ce projet analyse les données des courses Uber à New York pour identifier les 
 - Cartes interactives avec Plotly
 - Animation temporelle des clusters
 - Représentation des centres de clusters
+- Par exemple le Vendredi à 23h
+![alt text](image.png)
+- ou le samedi à 11h 
+![alt text](image-1.png)
